@@ -14,3 +14,6 @@ int main()
 	printf("Name %s,\nMarks %d",s2.name,s2.marks);
 	return 0;
 }
+Output:
+Name Anitha,
+Marks 90
