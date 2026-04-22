@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+	enum week{mon,tue,wed,thu,fri,sat,sun};
+	printf("wednesday=%d",wed);
+	printf("\nfriday=%d",fri);
+	return 0;
+}
+Output:
+wednesday=2
+friday=4
