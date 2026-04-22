@@ -18,3 +18,8 @@ int main()
 	printf("\n %d %s %f",s3.rno,s3.name,s3.per);
 	return 0;
 }
+Output:
+Student Details are:
+101 Anitha 8.890000
+102 Honey 8.950000
+103 Manasa 8.230000
